@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EventLibIm">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EventLibIm.jar">
+      <element id="module-output" name="EventLib" />
+    </root>
+  </artifact>
+</component>
